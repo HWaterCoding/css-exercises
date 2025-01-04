@@ -1,0 +1,19 @@
+.class1{
+    background-color: #e79494;
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+.large{
+    font-size: 24px;
+}
+
+#box2{
+    color: #3f3ffc;
+    font-size: 36px;
+}
+
+#box4{
+    background-color: #78e678;
+    font-size: 24px;
+    font-weight: bold;
+}
